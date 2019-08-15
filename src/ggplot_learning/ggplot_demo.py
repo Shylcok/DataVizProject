@@ -11,3 +11,6 @@
 @time: 2019/8/15 17:16
 """
 from ggplot import *
+
+p = ggplot(mtcars, aes('mpg', 'wt', color='factor(cyl)')) + geom_point() + ggtitle('mtcars')
+print(p)
