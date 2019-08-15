@@ -1,6 +1,6 @@
 # DataVizProject
-## python可视化学习的总目录---方便学习和查看
-## 使用python的类库(matplotlib、ggplot、seaborn、BoKeh)，数据可视化教程源代码
+
+### 使用python的类库(matplotlib、ggplot、seaborn、BoKeh)，数据可视化教程源代码
 加油！努力！show me the code！
 `'Festinatione facit vastum'`
 
